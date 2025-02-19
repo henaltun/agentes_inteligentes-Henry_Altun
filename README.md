@@ -15,10 +15,10 @@ Un agente que controla un semáforo ajustando su duración en función del tráf
 
 ### 🏁 Cómo ejecutar
 Ejecuta en la terminal:
-```sh
+sh
 python semaforo.py 
 
-Problema 2: Agente Buscador de Objetos
+## Problema 2: Agente Buscador de Objetos
 📌 Descripción
 Un agente que navega en una cuadrícula de 5x5 en busca de un objeto colocado aleatoriamente. Se mueve paso a paso hasta encontrarlo.
 
