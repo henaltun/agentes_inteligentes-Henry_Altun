@@ -15,8 +15,8 @@ Un agente que controla un semáforo ajustando su duración en función del tráf
 
 ### 🏁 Cómo ejecutar
 Ejecuta en la terminal:
-sh
-python semaforo.py 
+
+sh python Agente_semaforo.py 
 
 ## Problema 2: Agente Buscador de Objetos
 ### 📌 Descripción
