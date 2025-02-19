@@ -16,4 +16,4 @@ Un agente que controla un semáforo ajustando su duración en función del tráf
 ### 🏁 Cómo ejecutar
 Ejecuta en la terminal:
 ```sh
-python semaforo.py
+python Agente_semaforo.py
