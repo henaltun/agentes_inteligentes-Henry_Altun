@@ -33,7 +33,7 @@ Ejecuta en la terminal:
 sh
 python Agente_buscador_objetos.py
 
-🏥 Problema 3: Sistema Experto para Diagnóstico Simple
+## Problema 3: Sistema Experto para Diagnóstico Simple
 📌 Descripción
 Un sistema experto que proporciona diagnósticos básicos en función de los síntomas ingresados por el usuario.
 
@@ -48,7 +48,7 @@ sh
 python Sistema_experto_diagnostico_simple.py
 
 
-🎬 Problema 4: Agente de Recomendación de Películas
+## Problema 4: Agente de Recomendación de Películas
 📌 Descripción
 Un agente que recomienda películas según el género favorito del usuario.
 
